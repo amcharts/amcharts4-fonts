@@ -20,7 +20,7 @@ Put contents of this package into your `amcharts4/fonts` folder, or install
 
 ### Documentation
 
-For information on how to use these fonts files check [this documentation page](https://www.amcharts.com/docs/v4/concepts/exporting/#PDF_and_non_Latin_languages).
+For information on how to use these fonts files check [this documentation page](https://www.amcharts.com/docs/v4/tutorials/using-pdf-export-fonts/).
 
 
 ### Other ways to get amCharts 4 library and related geodata
